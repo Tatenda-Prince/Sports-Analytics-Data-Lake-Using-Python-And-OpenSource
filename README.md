@@ -95,8 +95,45 @@ nano nba_data_lake.py
 
 2.Clone the repository
 ``` language
+git clone https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource.git
 
 ```
+Copy the contents inside the "src folder" the nba_data_lake.py file
+
+Go back to the Cloudshell window and paste the contents inside the file.
+
+3.Find the line of code under #Sportsdata.io configurations that says "api_key" paste your api key inside the quotations
+
+4.Press ^X to exit, press Y to save the file, press enter to confirm the file name
+
+## Step 3: Create .env file
+
+1.In the CLI (Command Line Interface), type
+
+```language
+nano .env
+```
+
+2.paste the following line of code into your file, ensure you swap out with your API key
+
+```langauge
+SPORTS_DATA_API_KEY=your_sportsdata_api_key
+
+NBA_ENDPOINT=https://api.sportsdata.io/v3/nba/scores/json/Players
+```
+
+3.Press ^X to exit, press Y to save the file, press enter to confirm the file name
+
+## Step 4: Run the script
+
+1.In the CLI type
+
+```python
+python3 snba_data_lake.py
+```
+
+
+
 
 
 
