@@ -129,8 +129,21 @@ NBA_ENDPOINT=https://api.sportsdata.io/v3/nba/scores/json/Players
 1.In the CLI type
 
 ```python
-python3 snba_data_lake.py
+python3 nba_data_lake.py
 ```
+
+You should see the resources were successfully created, the sample data was uploaded successfully and the Data Lake Setup Completed as shown below
+
+## Output 
+
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/3f45b7f86d7bd1792f32a052980510b096c77527/images/Screenshot%202025-01-21%20165308.png)
+
+## Step 5: Manually Check For The Resources Are Successfully Created 
+
+1.I checked if my S3 Bucket had been created in the the AWS S3 console both objects were successful created
+
+![image_alt]()
+
 
 
 
