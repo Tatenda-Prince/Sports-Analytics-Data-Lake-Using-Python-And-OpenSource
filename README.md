@@ -44,7 +44,7 @@ Amazon Athena is an interactive query service that makes it easy to analyze data
 
 Before running the script, ensure you have the following:
 
-1.Go to Sportsdata.io and create a free account At the top left, you should see "Developers", if you hover over it you should see "API Resources" Click on "Introduction & Testing"
+1.Go to (https://sportsdata.io/) and create a free account At the top left, you should see "Developers", if you hover over it you should see "API Resources" Click on "Introduction & Testing"
 
 2.Click on "SportsDataIO API Free Trial" and fill out the information & be sure to select NBA for this tutorial
 
