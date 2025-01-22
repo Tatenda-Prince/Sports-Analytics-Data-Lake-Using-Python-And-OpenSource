@@ -170,7 +170,7 @@ You should see the resources were successfully created, the sample data was uplo
 
 3.Save click `RUN` and you should see your result as show below
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/f1a51904dd42cde74a25ba943a64ce2d15318c13/images/Screenshot%202025-01-21%20173454.png)
 
 
 
