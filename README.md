@@ -79,5 +79,24 @@ S3: s3:CreateBucket, s3:PutObject, s3:DeleteBucket, s3:ListBucket Glue: glue:Cre
 You work at "Up The Chelsea" sports and they need someone to run analytics and insights for the NBA upcoming game and you are tasked with the responsibility to analyze an S3 Datalake holding NBA Data which can be queried to return relevant information for analytics and insights for the BOSTON TEAM.
 
 
+## Step 1: Open CloudShell Console/ Local linux environment with AWS CLI installed 
+
+1.Go to aws.amazon.com  and sign into your account
+
+2.In the top, next to the search bar you will see a greater than square with a >_ inside, click this to open the CloudShell
+
+## Step 2: Create the nba_data_lake.py file
+
+1.In your the CLI (Command Line Interface), type
+
+```language
+nano nba_data_lake.py
+```
+
+2.Clone the repository
+``` language
+
+```
+
 
 
