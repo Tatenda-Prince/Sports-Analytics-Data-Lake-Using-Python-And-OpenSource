@@ -142,7 +142,13 @@ You should see the resources were successfully created, the sample data was uplo
 
 1.I checked if my S3 Bucket had been created in the the AWS S3 console both objects were successful created
 
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/a86dccf80f7fe15fab4013983610b09d38ef5c18/images/Screenshot%202025-01-21%20165357.png)
+
+2.Click the file name and at the top you will see the option to Open the file and you be able to see a sample containing raw data:
+
 ![image_alt]()
+
+
 
 
 
