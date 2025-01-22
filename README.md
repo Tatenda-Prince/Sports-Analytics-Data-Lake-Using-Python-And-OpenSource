@@ -65,7 +65,7 @@ S3_Policy: s3:CreateBucket, s3:PutObject, s3:DeleteBucket, s3:ListBucket Glue: g
 
 ## Technologies
 
-1.loud Provider: AWS CloudShell Console 
+1.Cloud Provider: AWS CloudShell Console 
 
 2.Programming Language: Python 3.x
 
