@@ -155,7 +155,18 @@ You should see the resources were successfully created, the sample data was uplo
 
 3.Before heading to Athen check there is a table available in AWS Glue named `nba_player_data.jsonl` if it exits as shown below:
 
-![image_alt]()
+
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/bb8b51bb944910d268364c43de2312ee9dfb3e42/images/Screenshot%202025-01-21%20170525.png)
+
+
+
+## Step 5: Open the AWS Athena console, to be able to run SQL queries against your Data lake.
+
+1.Glue Crawler allows us to infer the schema (Column names, Data type and Metadata) from JSON file.
+
+2.The Query below will tell us the PlayerID, FirstName, LastName, Team, Position  in the NBA.
+
+![image_alt}()
 
 
 
