@@ -166,7 +166,13 @@ You should see the resources were successfully created, the sample data was uplo
 
 2.The Query below will tell us the PlayerID, FirstName, LastName, Team, Position  in the NBA.
 
-![image_alt}()
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/92a3f629015b06a96f179d3a30c85819e1c7c374/images/Screenshot%202025-01-21%20173430.png)
+
+3.Save click `RUN` and you should see your result as show below
+
+![image_alt]()
+
+
 
 
 
