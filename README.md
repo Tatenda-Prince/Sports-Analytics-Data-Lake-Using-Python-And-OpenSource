@@ -138,15 +138,28 @@ You should see the resources were successfully created, the sample data was uplo
 
 ![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/3f45b7f86d7bd1792f32a052980510b096c77527/images/Screenshot%202025-01-21%20165308.png)
 
+
 ## Step 5: Manually Check For The Resources Are Successfully Created 
+
 
 1.I checked if my S3 Bucket had been created in the the AWS S3 console both objects were successful created
 
 ![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/a86dccf80f7fe15fab4013983610b09d38ef5c18/images/Screenshot%202025-01-21%20165357.png)
 
+
 2.Click the file name and at the top you will see the option to Open the file and you be able to see a sample containing raw data:
 
+
+![image_alt](https://github.com/Tatenda-Prince/Sports-Analytics-Data-Lake-Using-Python-And-OpenSource/blob/80d0a7e2af4c990974942c352cefcfac01c294bf/images/Screenshot%202025-01-21%20165558.png)
+
+
+3.Before heading to Athen check there is a table available in AWS Glue named `nba_player_data.jsonl` if it exits as shown below:
+
 ![image_alt]()
+
+
+
+
 
 
 
