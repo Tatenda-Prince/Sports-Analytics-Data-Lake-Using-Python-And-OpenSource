@@ -1,4 +1,4 @@
-# Sports-Analytics-Data-Lake-Using-Python-And-OpenSource
+# Scalable Sports Analytics Data Lake with Python and Open-Source Technologies
 
 "Analytics and Insights"
 
